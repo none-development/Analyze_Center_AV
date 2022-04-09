@@ -244,3 +244,5 @@ paket-files/
 .idea/
 *.sln.iml
 *.zip
+Software/GenerellSystems/CrypteFileSystem.cs
+Software/AccountData/LoginAPIStuff.cs
